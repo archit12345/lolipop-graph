@@ -1,2 +1,2 @@
 # lolipop-graph
-In this project, I will be using the in-built data set msleep in R to create a lolipop graph. The data show the amount of time spent asleep vs awake in many different orders of mammal. My lolipop plot will show the averages sleep of each order of mammal compared to the total average sleep time for all orders of mammal in the dataset.
+In this project, I will be using the in-built data set msleep in R to create a lolipop graph. The data show the amount of time spent asleep vs awake in many different orders of mammal. My lolipop plot will show the averages sleep of each order of mammal compared to the total average sleep time for all orders of mammal in the dataset. Link to project: https://rpubs.com/architn01/1309861 
